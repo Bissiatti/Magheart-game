@@ -1,0 +1,117 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "sem título3.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Todos os Arquivos (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#esp": {
+            "scaleInDock": 11
+        },
+        "#marble_packed": {
+            "scaleInEditor": 1
+        },
+        "#rock_packed": {
+            "scaleInDock": 3
+        },
+        "#sand_packed": {
+            "scaleInDock": 3
+        },
+        "#stone_packed": {
+            "scaleInDock": 2
+        },
+        "sem título.tmx": {
+            "expandedObjectLayers": [
+                4,
+                7,
+                6,
+                3,
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 254.3333333333333,
+                "y": 214.33333333333331
+            }
+        },
+        "sem título.tmx#marble_packed": {
+            "scaleInDock": 4
+        },
+        "sem título.tmx#rock_packed": {
+            "scaleInDock": 3
+        },
+        "sem título2.tmx": {
+            "expandedObjectLayers": [
+                8,
+                7,
+                6,
+                3,
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 295.6666666666667,
+                "y": 126.33333333333331
+            }
+        },
+        "sem título2.tmx#rock_packed": {
+            "scaleInDock": 3
+        },
+        "sem título2.tmx#stone_packed": {
+            "scaleInDock": 2
+        },
+        "sem título3.tmx": {
+            "expandedObjectLayers": [
+                5,
+                4,
+                6,
+                3,
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 241,
+                "y": 30.333333333333314
+            }
+        },
+        "sem título3.tmx#rock_packed": {
+            "scaleInDock": 3
+        },
+        "sem título3.tmx#stone_packed": {
+            "scaleInDock": 2
+        }
+    },
+    "last.exportedFilePath": "C:/Users/emanu/OneDrive/Documentos/gameDev/magheart/maps/tiled_maps",
+    "last.imagePath": "C:/Users/emanu/OneDrive/Documentos/gameDev/magheart/maps/content",
+    "map.height": 17,
+    "map.lastUsedExportFilter": "Arquivos Lua (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 32,
+    "openFiles": [
+        "sem título.tmx",
+        "sem título2.tmx",
+        "sem título3.tmx"
+    ],
+    "project": "sem título.tiled-project",
+    "recentFiles": [
+        "sem título.tmx",
+        "sem título2.tmx",
+        "sem título3.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
